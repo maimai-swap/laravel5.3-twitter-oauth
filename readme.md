@@ -33,6 +33,12 @@ php artisan make:auth
 php artisan migrate
 ```
 
+* access and twitter login
+
+```
+https://{your application domain}/twitter/login
+```
+
 ## reference
 *  [Laravel5.3でソーシャル連携ウェブサービスの土台を作る(Socialite/Twitter)](http://qiita.com/maimai-swap/items/c19e7eac59181091388d)
 
